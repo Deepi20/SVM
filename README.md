@@ -1,5 +1,6 @@
 # SVM
 What is SVM?
+
 Support Vector Machines are perhaps one of the most popular and talked about machine learning
 algorithms. SVMs are among the best “off-the-shelf” supervised learning algorithms
 To tell the SVM story, we’ll need to first talk about margins and the idea of separating data with a large
